@@ -11,17 +11,16 @@
     "url": "git+https://github.com/themesberg/landwind.git"
   },
   "keywords": [
-    "landing",
-    "page",
-    "tailwind",
-    "tailwind",
     "css",
     "flowbite",
     "responsive",
     "html",
     "css",
     "javascript",
-    "design"
+    "design",
+    "landing",
+    "page",
+    "tailwind"
   ],
   "author": "Themesberg",
   "license": "MIT",
